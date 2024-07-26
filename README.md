@@ -1,7 +1,7 @@
 # Justin Carder - Data Analyst Portfolio
 
 ## Table of Contents
-- [About Me] (https://github.com/JustinCarder/portfolio/blob/main/README.md#about-me)
+- [About Me](https://github.com/JustinCarder/portfolio/blob/main/README.md#about-me)
 - [Education]
 - [Certificate]
 - [Experience]
