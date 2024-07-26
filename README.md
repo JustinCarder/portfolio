@@ -1,4 +1,4 @@
-## Data Analyst Portfolio
+# Data Analyst Portfolio
 
 ## Table of Contents
 - [About Me](https://github.com/JustinCarder/portfolio/blob/main/README.md#about-me)
