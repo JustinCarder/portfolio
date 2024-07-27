@@ -1,12 +1,12 @@
 # Data Analyst Portfolio
 
 ## Table of Contents
-- [About Me](https://github.com/JustinCarder/portfolio/blob/main/README.md#about-me)
-- [Education](https://github.com/JustinCarder/portfolio/blob/main/README.md#education)
-- [Certificates](https://github.com/JustinCarder/portfolio/blob/main/README.md#certificates)
-- [Experience](https://github.com/JustinCarder/portfolio/blob/main/README.md#experience)
-- [Projects](https://github.com/JustinCarder/portfolio/blob/main/README.md#projects)
-- [Contact Information](https://github.com/JustinCarder/portfolio/blob/main/README.md#contact-information)
+- [About Me](https://justincarder.github.io/portfolio/#about-me)
+- [Education](https://justincarder.github.io/portfolio/#education)
+- [Certificates](https://justincarder.github.io/portfolio/#certificates)
+- [Experience](https://justincarder.github.io/portfolio/#experience)
+- [Projects](https://justincarder.github.io/portfolio/#projects)
+- [Contact Information](https://justincarder.github.io/portfolio/#contact-information)
 
 ## About Me 
 Hello! I am Justin, a passionate data analyst with a background in Mechanical Engineering and a keen interest in uncovering insights and driving decision-making through data. With a strong foundation in statistics, data visualization, and programming, I strive to transform complex data into actionable intelligence.
