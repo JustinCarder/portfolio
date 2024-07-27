@@ -9,7 +9,7 @@
 - [Contact Information](https://github.com/JustinCarder/portfolio/blob/main/README.md#contact-information)
 
 ## About Me 
-Hello I am Justin! I have a background in Mechanical Engineering
+Hello! I am Justin, a passionate data analyst with a background in Mechanical Engineering and a keen interest in uncovering insights and driving decision-making through data. With a strong foundation in statistics, data visualization, and programming, I strive to transform complex data into actionable intelligence.
 
 ## Education
 Johns Hopkins University: Bachelor of Science - Mechanical Engineering, Aug 2019 - May 2023
@@ -19,7 +19,32 @@ Johns Hopkins University: Bachelor of Science - Mechanical Engineering, Aug 2019
 
 Skills: SQL, R, Excel/Spreadsheets, Tableau, Data Analysis Process
 ## Experience
+JHU Senior Design Project, Aug 2022 - May 2023
+- Provide a blind-accessible solution for Blind Industries and Services of Maryland’s (BISM) shortage of straight white canes for their rehabilitation associates. Preformed tests, collected large amounts of data, cleaned/analyzed the data using Excel, and used the data to communicate to stakeholders and improve our designs.
 
 ## Projects
 
+### SQL Project: 
+**Descriptioin:**
+
+**Code:**
+
+**Results:**
+
+### Python Project:
+**Descriptioin:**
+
+**Code:**
+
+**Results:**
+
+### R Project:
+**Descriptioin:**
+
+**Code:**
+
+**Results:**
+
 ## Contact Information
+- Email: justincarder24@yahoo.com
+- LinkedIn: www.linkedin.com/in/justin-carder
