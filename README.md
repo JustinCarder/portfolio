@@ -29,7 +29,7 @@ JHU Senior Design Project, Aug 2022 - May 2023
 
 **Code:**
 
-**Results:**
+**Results:** [Olympic Games Tableau Dashboard](https://public.tableau.com/shared/JSZGP8XXM?:display_count=n&:origin=viz_share_link)
 
 ### Python Project:
 **Descriptioin:**
