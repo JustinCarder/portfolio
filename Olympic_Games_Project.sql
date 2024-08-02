@@ -69,7 +69,6 @@ SELECT
   AVG(Height_Num) AS Average_Height, -- Average function
   AVG(Age_Num) AS Average_Age, -- Average function
 FROM ranked_medalist_updated
-WHERE Sport = "Golf"
 GROUP BY Sport,Year,Sex -- Make sure it takes the average for each sport of everyone of the same sex who recieved a medal that year
 ORDER BY Sport,Year,Sex
 
