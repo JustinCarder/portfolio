@@ -27,7 +27,7 @@ JHU Senior Design Project, Aug 2022 - May 2023
 ### SQL Project: 
 **Descriptioin:**
 
-**Code:**
+**Code:** [Olympic Games SQL Code](https://github.com/JustinCarder/portfolio/blob/main/Olympic_Games_Project.sql)
 
 **Results:** [Olympic Games Tableau Dashboard](https://public.tableau.com/shared/JSZGP8XXM?:display_count=n&:origin=viz_share_link)
 
