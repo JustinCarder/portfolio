@@ -25,13 +25,19 @@ JHU Senior Design Project, Aug 2022 - May 2023
 ## Projects
 
 ### SQL Project: 
-**Descriptioin:**
+**Description:**
 
-**Code:** [Olympic Games SQL Code](https://github.com/JustinCarder/portfolio/blob/main/Olympic_Games_Project.sql)
+**Code 1:** [Olympic Games SQL Code: Body Measurements Overtime](https://github.com/JustinCarder/portfolio/blob/main/Olympic_Games_Project.sql)
 
-[Body Measurements Per Medal Comparison](https://github.com/JustinCarder/portfolio/blob/main/Body_Measurements_Per_Medal.sql)
+**Results 1:** [Olympic Games Tableau Dashboard](https://public.tableau.com/shared/JSZGP8XXM?:display_count=n&:origin=viz_share_link)
 
-**Results:** [Olympic Games Tableau Dashboard](https://public.tableau.com/shared/JSZGP8XXM?:display_count=n&:origin=viz_share_link)
+**Conclusion 1:**
+
+**Code 2:** [Olympic Games SQL Code: Body Measurements Per Medal Comparison](https://github.com/JustinCarder/portfolio/blob/main/Body_Measurements_Per_Medal.sql)
+
+**Results 2:** [Olympic Games Tableau Dashboard](https://public.tableau.com/views/OlympicGamesProject2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Conclusion 2:**
 
 ### Python Project:
 **Descriptioin:**
