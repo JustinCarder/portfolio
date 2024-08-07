@@ -25,7 +25,7 @@ JHU Senior Design Project, Aug 2022 - May 2023
 ## Projects
 
 ### SQL Project: 
-**Description:**
+**Description:** The following dataset from Kaggle was used for this project [120 Years of Olympic history: athletes and results.](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data)
 
 **Code 1:** [Olympic Games SQL Code: Body Measurements Overtime](https://github.com/JustinCarder/portfolio/blob/main/Olympic_Games_Project.sql)
 
