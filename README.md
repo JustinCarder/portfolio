@@ -39,6 +39,12 @@ JHU Senior Design Project, Aug 2022 - May 2023
 
 **Conclusion 2:**
 
+**Code 3:** [Olympic Games SQL Code: Effects of Hosting the Olympics](https://github.com/JustinCarder/portfolio/blob/main/olympic_games_host_project.sql)
+
+**Results 2:**
+
+**Conclusion 2:**
+
 ### Python Project:
 **Descriptioin:**
 
