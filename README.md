@@ -48,16 +48,16 @@ JHU Senior Design Project, Aug 2022 - May 2023
 ### Python Project:
 **Descriptioin:**
 
-**Code:**
+**Code/Results:** [Movie Correlations Python Jupyter Notebook:](https://github.com/JustinCarder/portfolio/blob/main/MoviesProject.ipynb)
 
-**Results:**
+**Conclusion:**
 
 ### R Project:
-**Descriptioin:**
+**Descriptioin:** TBD
 
-**Code:**
+**Code:** TBD
 
-**Results:**
+**Results:** TBD
 
 ## Contact Information
 - Email: justincarder24@yahoo.com
