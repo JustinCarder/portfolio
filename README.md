@@ -24,7 +24,7 @@ JHU Senior Design Project, Aug 2022 - May 2023
 
 ## Projects
 
-### SQL Project: 
+### SQL Project: Olympic Games 1896-2016
 **Description:** The following dataset from Kaggle was used for this project [120 Years of Olympic history: athletes and results.](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data)
 
 **Code 1:** [Olympic Games SQL Code: Body Measurements Overtime](https://github.com/JustinCarder/portfolio/blob/main/Olympic_Games_Project.sql)
@@ -45,8 +45,8 @@ JHU Senior Design Project, Aug 2022 - May 2023
 
 **Conclusion 2:**
 
-### Python Project:
-**Descriptioin:**
+### Python Project: Comparing Movie Attributes 
+**Descriptioin:** The following dataset was used for this project [Movies Data](https://github.com/JustinCarder/portfolio/blob/main/movies.csv)
 
 **Code/Results:** [Movie Correlations Python Jupyter Notebook:](https://github.com/JustinCarder/portfolio/blob/main/MoviesProject.ipynb)
 
