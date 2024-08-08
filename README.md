@@ -11,6 +11,8 @@
 ## About Me 
 Hello! I am Justin, a passionate data analyst with a background in Mechanical Engineering and a keen interest in uncovering insights and driving decision-making through data. With a strong foundation in statistics, data visualization, and programming, I strive to transform complex data into useful and impactful solutions. My resume is attached [here](https://github.com/JustinCarder/portfolio/blob/main/Resume%20Justin%20Carder_August2024.pdf).
 
+I hold a Bachelor's degree in Mechanical Engineering, where I developed a strong analytical thinking, problem-solving, and quantitative analysis foundation. During my studies I learned skills in programming, statistical analysis, reports/presentations, and collaboration. These abilities have allowed me to seamlessly transition into my passion for data analytics.
+
 ## Education
 Johns Hopkins University: Bachelor of Science - Mechanical Engineering, Aug 2019 - May 2023
 
