@@ -57,13 +57,6 @@ JHU Senior Design Project, Aug 2022 - May 2023
 
 **Conclusion:** The highest positive correlation between two variables was budget and gross of 0.74, meaning that as budget increased the gross revenue of the movie also increased. The highest negative correlation between two variables was genre and budget of -0.37. The two variables that had almost no correlation was runtime and released date.
 
-### R Project:
-**Descriptioin:** TBD
-
-**Code:** TBD
-
-**Results:** TBD
-
 ## Contact Information
 - Email: justincarder24@yahoo.com
 - LinkedIn: www.linkedin.com/in/justin-carder
